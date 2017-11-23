@@ -1,0 +1,50 @@
+package com.bridgeit.ManyToMany;
+
+
+
+import java.util.HashSet;
+import java.util.List;
+import java.util.Set;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
+
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Configuration config = new Configuration().configure("hibernate.cfg.xml");
+        SessionFactory factory = config.buildSessionFactory();
+        Session session = factory.openSession();
+        Transaction transaction = session.beginTransaction();
+        Set<Course> courses = new HashSet<Course>();
+		courses.add(new Course("Maths"));
+		courses.add(new Course("Computer Science"));
+
+		/*Student student1 = new Student("Akash", courses);
+		Student student2 = new Student("Sujit", courses);
+		session.save(student1);
+		session.save(student2);
+
+		transaction.commit();*/
+		System.out.println("Success");
+		Query query= session.createQuery("from Student");
+		List<Student> list = query.list();
+		for(Student student: list)
+		{
+			String course = student.getCourses().toString();
+			System.out.println(course);
+			
+			System.out.println(student.getStudentId()+" "+student.getStudentName()+" "+course);
+		}
+		transaction.commit();
+    }
+}

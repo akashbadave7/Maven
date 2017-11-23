@@ -1,0 +1,18 @@
+INDEX VERSION 1.129+/home/bridgeit/Maven/.metadata/.plugins/org.eclipse.jdt.core
+2899827429.index
+2220433636.index
+3279138262.index
+3690641297.index
+2636994335.index
+2180383057.index
+548916080.index
+4079967923.index
+4171700887.index
+3329604270.index
+2157076292.index
+1313682695.index
+256163917.index
+90048579.index
+3127459813.index
+526252197.index
+4251177091.index

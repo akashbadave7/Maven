@@ -1,0 +1,5 @@
+package com.bridgeit.OneToOne;
+
+public class Student {
+
+}

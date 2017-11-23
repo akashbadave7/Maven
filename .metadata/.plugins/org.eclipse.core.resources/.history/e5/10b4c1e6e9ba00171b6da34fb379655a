@@ -1,0 +1,69 @@
+package com.bridgeit.OneToMany;
+
+
+
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
+
+public class Main {
+
+	public static void main(String[] args) 
+	{
+			Scanner scanner = new Scanner(System.in);
+			Configuration config = new Configuration().configure("hibernate.cfg.xml");
+			SessionFactory factory = config.buildSessionFactory();
+			Session session = factory.openSession();
+			Transaction transaction = session.beginTransaction(); 
+			Set<Phone> phoneNumbers = new HashSet<Phone>();
+			String name,house,mobile;
+			Student student=null;
+			while(true)
+			{
+				System.out.println("Enter your choice");
+				System.out.println("1) Add");
+				System.out.println("2) Delete");
+				System.out.println("3) Exit");
+				int choice = scanner.nextInt();
+				switch(choice)
+				{
+					case 1: System.out.println("Enter name");
+							name = scanner.next();
+							System.out.println("Enter house number");
+							house =scanner.next();
+							System.out.println("Enter mobile number");
+							mobile = scanner.next();
+							
+							
+							phoneNumbers.add(new Phone("house",house));
+							phoneNumbers.add(new Phone("mobile",mobile));
+							student = new Student(name, phoneNumbers);
+						
+							int j=(Integer) session.save(student);
+							System.out.println(j+" record inserted");
+							transaction.commit();
+					break;
+					case 2: System.out.println("Enter student id");
+							int id = scanner.nextInt();
+							student=session.load(Student.class,new Long(id));
+				     		session.delete(student);
+				     		System.out.println("Object Deleted successfully.....!!");
+				     		transaction.commit();
+					
+				     		System.out.println("Deleted successfully");	
+						break;
+				}
+			}
+			
+		
+			
+		
+	}
+
+}

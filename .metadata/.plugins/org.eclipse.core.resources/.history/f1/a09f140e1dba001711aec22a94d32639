@@ -1,0 +1,140 @@
+2017-10-26 12:14:56 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:14:56 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:14:56 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:14:56 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:14:56 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:14:56 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:14:56 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:14:56 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:14:56 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3b532348] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:14:56 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:14:56 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:14:58 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:15:40 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:15:40 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:15:40 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:15:40 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:15:40 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:15:40 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:15:40 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:15:40 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:15:40 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@421698ad] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:15:40 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:15:40 WARN  SignUpController:58 - User already exits.
+2017-10-26 12:15:54 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:15:54 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:15:54 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:15:54 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:15:54 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:15:54 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:15:55 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:15:55 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:15:55 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@74406145] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:15:55 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:15:55 WARN  SignUpController:58 - User already exits.
+2017-10-26 12:17:25 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:17:25 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:17:25 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:17:25 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:17:25 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:17:25 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:17:25 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:17:25 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:17:25 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:17:25 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:17:25 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:17:26 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@500ab9d6] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:17:26 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:17:26 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:17:28 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:18:01 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:18:01 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:18:01 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:18:01 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:18:01 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:18:01 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:18:01 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:18:01 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:18:01 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@245527b2] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:18:01 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:18:01 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:18:04 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:19:54 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:19:54 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:19:54 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:19:54 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:19:54 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:19:54 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:19:54 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:19:54 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:19:54 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:19:54 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:19:54 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:19:55 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2f1ac186] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:19:55 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:19:55 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:19:57 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:20:02 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:20:02 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:20:02 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:20:02 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:20:02 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:20:02 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:20:02 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:20:02 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:20:02 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4bff97cb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:20:02 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:20:02 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:20:03 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:20:26 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:20:26 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:20:26 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:20:26 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:20:26 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:20:26 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:20:26 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:20:26 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:20:26 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:20:26 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:20:26 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:20:26 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@19a6c3d7] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:20:26 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:20:26 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:20:29 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:29:06 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:29:06 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:29:06 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:29:06 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:29:06 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:29:06 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:29:06 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:29:06 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:29:06 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:29:07 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:29:07 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:29:07 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5e1a1391] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:29:07 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:29:07 WARN  LoginController:54 - Login Failed
+2017-10-26 12:29:22 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:29:22 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:29:22 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:29:22 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:29:22 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:29:22 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:29:22 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:29:22 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:29:22 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1d116d76] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:29:22 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:29:22 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:29:24 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:29:33 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:29:33 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:29:33 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:29:33 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:29:33 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:29:33 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:29:33 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:29:33 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:29:33 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@55f74428] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:29:33 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:29:33 WARN  LoginController:54 - Login Failed

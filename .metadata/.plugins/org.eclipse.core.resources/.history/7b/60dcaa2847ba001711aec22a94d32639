@@ -1,0 +1,32 @@
+package com.bridgeit.OneToOne;
+ 
+import java.util.Iterator;  
+import java.util.List;  
+import org.hibernate.query.Query;  
+import org.hibernate.Session;  
+import org.hibernate.SessionFactory;  
+import org.hibernate.cfg.Configuration;  
+  
+public class Fetch {  
+public static void main(String[] args) {  
+    Configuration cfg=new Configuration();  
+    cfg.configure("hibernate.cfg.xml");  
+    SessionFactory sf=cfg.buildSessionFactory();  
+    Session session=sf.openSession();  
+      
+    Query query=session.createQuery("from Student");  
+    List<Student> list=query.list();  
+      
+    Iterator<Student> itr=list.iterator();  
+    while(itr.hasNext()){  
+     Student emp=itr.next();  
+     System.out.print(emp.getStudentId()+" "+emp.getStudentName()+" ");  
+     StudentAddress address=emp.getStudentAddress();  
+     System.out.println(address.getAddressId()+" "+address.getCity()+" "+  
+        address.getState());  
+    }  
+  
+    session.close();  
+    System.out.println("success");  
+}  
+}  

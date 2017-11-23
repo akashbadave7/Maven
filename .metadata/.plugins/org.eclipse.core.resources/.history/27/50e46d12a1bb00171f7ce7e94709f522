@@ -1,0 +1,25 @@
+package com.bridgeit.SecondLevelCache1;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class Main {
+
+	public static void main(String[] args) 
+	{
+		Configuration cfg=new Configuration();  
+	    cfg.configure("hibernate.cfg.xml");  
+	    SessionFactory sf=cfg.buildSessionFactory();  
+	    Session session=sf.openSession();  
+	    
+	    Student student = session.load(Student.class, 2);
+	    System.out.println(student.getStudentId()+" "+student.getStudentName());
+	    session.close();
+	    
+	    Student student2 =session.load(Student.class, 2);
+	    System.out.println(student.getStudentId()+" "+student.getStudentName());
+	    session.close();
+	}
+
+}

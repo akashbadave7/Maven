@@ -1,0 +1,691 @@
+2017-10-26 12:43:02 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:43:02 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:43:46 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:44:01 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:44:01 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:44:01 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:44:01 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:44:01 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:44:01 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:44:01 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:44:01 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:44:01 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:44:01 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:44:01 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:44:02 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@30a846f8] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:44:02 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:44:02 INFO  LoginController:46 - Login Successfull
+2017-10-26 12:44:24 INFO  LogoutController:32 - Successfully logout
+2017-10-26 12:48:33 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:48:33 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:48:33 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:48:33 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:48:33 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:48:33 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:48:33 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:48:33 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:48:33 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:48:33 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:48:33 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:48:34 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@547fae59] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:49:35 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:49:35 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:49:35 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:49:35 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:49:35 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:49:35 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:49:35 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:49:35 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:49:35 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@58ba4a5f] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:53:39 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:241)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:144)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:309)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:452)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:710)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:726)
+	at com.bridgeit.DAO.DataBase.<init>(DataBase.java:38)
+	at com.bridgeit.Controller.SignUpController.doPost(SignUpController.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.sql.SQLException: Query execution was interrupted
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2847)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1531)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1622)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:2370)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:2297)
+	at com.mysql.jdbc.Statement.execute(Statement.java:902)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 37 more
+2017-10-26 12:53:39 WARN  ExceptionHandlerLoggedImpl:27 - GenerationTarget encountered exception accepting command : Error executing DDL via JDBC Statement
+org.hibernate.tool.schema.spi.CommandAcceptanceException: Error executing DDL via JDBC Statement
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:67)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlString(SchemaDropperImpl.java:375)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.applySqlStrings(SchemaDropperImpl.java:359)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.dropFromMetadata(SchemaDropperImpl.java:241)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.performDrop(SchemaDropperImpl.java:154)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:126)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:144)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:309)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:452)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:710)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:726)
+	at com.bridgeit.DAO.DataBase.<init>(DataBase.java:38)
+	at com.bridgeit.Controller.SignUpController.doPost(SignUpController.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.sql.SQLException: Query execution was interrupted
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2847)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1531)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1622)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:2370)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:2297)
+	at com.mysql.jdbc.Statement.execute(Statement.java:902)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:54)
+	... 37 more
+2017-10-26 12:53:39 WARN  SqlExceptionHelper:129 - SQL Error: 0, SQLState: 08S01
+2017-10-26 12:53:39 WARN  SqlExceptionHelper:129 - SQL Error: 0, SQLState: 08S01
+2017-10-26 12:53:39 ERROR SqlExceptionHelper:131 - Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.io.EOFException
+
+STACKTRACE:
+
+java.io.EOFException
+	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:1842)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2288)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2784)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1531)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1622)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:2370)
+	at com.mysql.jdbc.Connection.setAutoCommit(Connection.java:525)
+	at org.hibernate.engine.jdbc.connections.internal.PooledConnections.add(PooledConnections.java:68)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.closeConnection(DriverManagerConnectionProviderImpl.java:195)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.releaseConnection(JdbcEnvironmentInitiator.java:185)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.release(DdlTransactionIsolatorNonJtaImpl.java:83)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.release(GenerationTargetToDatabase.java:90)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:131)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:144)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:309)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:452)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:710)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:726)
+	at com.bridgeit.DAO.DataBase.<init>(DataBase.java:38)
+	at com.bridgeit.Controller.SignUpController.doPost(SignUpController.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+** END NESTED EXCEPTION **
+
+
+2017-10-26 12:53:39 ERROR SqlExceptionHelper:131 - Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.io.EOFException
+
+STACKTRACE:
+
+java.io.EOFException
+	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:1842)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:2288)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:2784)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:1531)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:1622)
+	at com.mysql.jdbc.Connection.execSQL(Connection.java:2370)
+	at com.mysql.jdbc.Connection.setAutoCommit(Connection.java:525)
+	at org.hibernate.engine.jdbc.connections.internal.PooledConnections.add(PooledConnections.java:68)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.closeConnection(DriverManagerConnectionProviderImpl.java:195)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.releaseConnection(JdbcEnvironmentInitiator.java:185)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.release(DdlTransactionIsolatorNonJtaImpl.java:83)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.release(GenerationTargetToDatabase.java:90)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:131)
+	at org.hibernate.tool.schema.internal.SchemaDropperImpl.doDrop(SchemaDropperImpl.java:112)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:144)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:309)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:452)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:710)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:726)
+	at com.bridgeit.DAO.DataBase.<init>(DataBase.java:38)
+	at com.bridgeit.Controller.SignUpController.doPost(SignUpController.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+** END NESTED EXCEPTION **
+
+
+2017-10-26 12:53:39 WARN  SqlExceptionHelper:129 - SQL Error: 0, SQLState: 08S01
+2017-10-26 12:53:39 ERROR SqlExceptionHelper:131 - Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.SocketException
+MESSAGE: java.net.ConnectException: Connection refused (Connection refused)
+
+STACKTRACE:
+
+java.net.SocketException: java.net.ConnectException: Connection refused (Connection refused)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:151)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1765)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:430)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:268)
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:38)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:58)
+	at org.hibernate.engine.jdbc.connections.internal.PooledConnections.addConnections(PooledConnections.java:123)
+	at org.hibernate.engine.jdbc.connections.internal.PooledConnections.poll(PooledConnections.java:78)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:186)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.jdbcStatement(GenerationTargetToDatabase.java:77)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:53)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.applySqlString(SchemaCreatorImpl.java:440)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.applySqlStrings(SchemaCreatorImpl.java:424)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.createFromMetadata(SchemaCreatorImpl.java:315)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.performCreation(SchemaCreatorImpl.java:166)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.doCreation(SchemaCreatorImpl.java:135)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.doCreation(SchemaCreatorImpl.java:121)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:155)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:309)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:452)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:710)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:726)
+	at com.bridgeit.DAO.DataBase.<init>(DataBase.java:38)
+	at com.bridgeit.Controller.SignUpController.doPost(SignUpController.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+** END NESTED EXCEPTION **
+
+
+2017-10-26 12:53:39 INFO  pooling:230 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:53:39 ERROR DriverManagerConnectionProviderImpl:92 - Collection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/akash
+2017-10-26 12:53:39 WARN  SqlExceptionHelper:129 - SQL Error: 0, SQLState: 08S01
+2017-10-26 12:53:39 ERROR SqlExceptionHelper:131 - Communications link failure due to underlying exception: 
+
+** BEGIN NESTED EXCEPTION ** 
+
+java.net.SocketException
+MESSAGE: java.net.ConnectException: Connection refused (Connection refused)
+
+STACKTRACE:
+
+java.net.SocketException: java.net.ConnectException: Connection refused (Connection refused)
+	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:151)
+	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:280)
+	at com.mysql.jdbc.Connection.createNewIO(Connection.java:1765)
+	at com.mysql.jdbc.Connection.<init>(Connection.java:430)
+	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:268)
+	at org.hibernate.engine.jdbc.connections.internal.DriverConnectionCreator.makeConnection(DriverConnectionCreator.java:38)
+	at org.hibernate.engine.jdbc.connections.internal.BasicConnectionCreator.createConnection(BasicConnectionCreator.java:58)
+	at org.hibernate.engine.jdbc.connections.internal.PooledConnections.addConnections(PooledConnections.java:123)
+	at org.hibernate.engine.jdbc.connections.internal.PooledConnections.poll(PooledConnections.java:78)
+	at org.hibernate.engine.jdbc.connections.internal.DriverManagerConnectionProviderImpl.getConnection(DriverManagerConnectionProviderImpl.java:186)
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180)
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.jdbcStatement(GenerationTargetToDatabase.java:77)
+	at org.hibernate.tool.schema.internal.exec.GenerationTargetToDatabase.accept(GenerationTargetToDatabase.java:53)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.applySqlString(SchemaCreatorImpl.java:440)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.applySqlStrings(SchemaCreatorImpl.java:424)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.createFromMetadata(SchemaCreatorImpl.java:315)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.performCreation(SchemaCreatorImpl.java:166)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.doCreation(SchemaCreatorImpl.java:135)
+	at org.hibernate.tool.schema.internal.SchemaCreatorImpl.doCreation(SchemaCreatorImpl.java:121)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:155)
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:72)
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:309)
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:452)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:710)
+	at org.hibernate.cfg.Configuration.buildSessionFactory(Configuration.java:726)
+	at com.bridgeit.DAO.DataBase.<init>(DataBase.java:38)
+	at com.bridgeit.Controller.SignUpController.doPost(SignUpController.java:33)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:648)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:729)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:292)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:240)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:207)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:212)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:94)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:504)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:141)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:79)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:620)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:88)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:502)
+	at org.apache.coyote.http11.AbstractHttp11Processor.process(AbstractHttp11Processor.java:1132)
+	at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.process(AbstractProtocol.java:684)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1539)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.run(NioEndpoint.java:1495)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+
+
+** END NESTED EXCEPTION **
+
+
+2017-10-26 12:53:39 INFO  pooling:230 - HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:53:39 ERROR DriverManagerConnectionProviderImpl:92 - Collection leak detected: there are 1 unclosed connections upon shutting down pool jdbc:mysql://localhost:3306/akash
+2017-10-26 12:56:08 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:56:08 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:56:08 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:56:08 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:56:08 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:56:08 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:56:08 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:56:08 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:56:08 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:56:09 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:56:09 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:56:09 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5a23ddcc] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:56:09 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6f62351] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:56:09 INFO  SchemaCreatorImpl:489 - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@29db96d3'
+2017-10-26 12:56:09 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:56:10 INFO  SignUpController:52 - Signup successfull
+2017-10-26 12:59:03 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 12:59:03 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 12:59:03 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:59:03 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 12:59:03 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:59:03 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:59:03 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:59:03 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:59:03 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:59:03 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:59:03 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:59:04 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@3585ad95] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:59:04 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5a66f66e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:59:04 INFO  SchemaCreatorImpl:489 - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3f71781b'
+2017-10-26 12:59:04 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:59:17 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 12:59:17 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 12:59:17 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 12:59:17 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 12:59:17 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 12:59:17 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 12:59:17 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 12:59:17 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 12:59:17 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6af7101c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:59:17 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@406b8a2] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 12:59:17 INFO  SchemaCreatorImpl:489 - HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@3f71781b'
+2017-10-26 12:59:17 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 12:59:17 INFO  SignUpController:52 - Signup successfull
+2017-10-26 13:01:09 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 13:01:09 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 13:01:09 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 13:01:09 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 13:01:09 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 13:01:09 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 13:01:09 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 13:01:09 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 13:01:09 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 13:01:09 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 13:01:09 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 13:01:10 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6e0b601e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 13:01:10 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 13:01:10 INFO  LoginController:46 - Login Successfull
+2017-10-26 13:01:35 INFO  LogoutController:32 - Successfully logout
+2017-10-26 13:01:45 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 13:01:45 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 13:01:45 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 13:01:45 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 13:01:45 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 13:01:45 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 13:01:45 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 13:01:45 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 13:01:45 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@1569ee2d] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 13:01:45 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 13:01:45 INFO  LoginController:46 - Login Successfull
+2017-10-26 13:01:47 INFO  LogoutController:32 - Successfully logout
+2017-10-26 13:02:19 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 13:02:19 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 13:02:19 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 13:02:19 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 13:02:19 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 13:02:19 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 13:02:19 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 13:02:19 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 13:02:19 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@267c4fe8] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 13:02:19 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 13:02:19 INFO  SignUpController:52 - Signup successfull
+2017-10-26 13:03:00 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 13:03:00 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 13:03:00 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 13:03:00 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 13:03:00 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 13:03:00 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 13:03:00 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 13:03:00 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 13:03:00 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@448be7b1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 13:03:00 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 13:03:00 INFO  SignUpController:52 - Signup successfull
+2017-10-26 14:02:15 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 14:02:15 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 14:02:15 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 14:02:15 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 14:02:15 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 14:02:15 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 14:02:15 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 14:02:15 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 14:02:15 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@415483ae] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 14:02:15 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 14:02:15 INFO  LoginController:46 - Login Successfull
+2017-10-26 14:02:20 INFO  LogoutController:32 - Successfully logout
+2017-10-26 14:04:19 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 14:04:19 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 14:04:19 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 14:04:19 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 14:04:19 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 14:04:19 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 14:04:19 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 14:04:19 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 14:04:19 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7c405020] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 14:04:19 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 14:04:19 INFO  SignUpController:52 - Signup successfull
+2017-10-26 14:05:08 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 14:05:08 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 14:05:08 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 14:05:08 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 14:05:08 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 14:05:08 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 14:05:08 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 14:05:08 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 14:05:08 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2d1e4418] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 14:05:08 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 14:05:08 INFO  LoginController:46 - Login Successfull
+2017-10-26 14:05:14 INFO  LogoutController:32 - Successfully logout
+2017-10-26 14:06:00 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 14:06:01 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 14:06:01 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 14:06:01 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 14:06:01 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 14:06:01 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 14:06:01 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 14:06:01 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 14:06:01 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@667fe3fb] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 14:06:01 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 14:06:01 WARN  SignUpController:58 - User already exits.
+2017-10-26 14:06:17 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 14:06:18 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 14:06:18 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 14:06:18 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 14:06:18 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 14:06:18 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 14:06:18 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 14:06:18 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 14:06:18 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@220f64d3] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 14:06:18 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 14:06:18 WARN  SignUpController:58 - User already exits.
+2017-10-26 15:23:23 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 15:23:23 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 15:23:23 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 15:23:23 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 15:23:23 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 15:23:23 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 15:23:23 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 15:23:23 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 15:23:23 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@bc38b91] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 15:23:23 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 15:23:23 INFO  LoginController:46 - Login Successfull
+2017-10-26 15:29:19 INFO  LogoutController:32 - Successfully logout
+2017-10-26 15:44:03 INFO  Version:45 - HHH000412: Hibernate Core {5.2.10.Final}
+2017-10-26 15:44:03 INFO  Environment:213 - HHH000206: hibernate.properties not found
+2017-10-26 15:44:03 WARN  deprecation:91 - HHH90000012: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/hibernate-configuration. Use namespace http://www.hibernate.org/dtd/hibernate-configuration instead.  Support for obsolete DTD/XSD namespaces may be removed at any time.
+2017-10-26 15:44:03 INFO  Version:66 - HCANN000001: Hibernate Commons Annotations {5.0.1.Final}
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration boolean -> org.hibernate.type.BooleanType@79d68528
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration boolean -> org.hibernate.type.BooleanType@79d68528
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Boolean -> org.hibernate.type.BooleanType@79d68528
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration numeric_boolean -> org.hibernate.type.NumericBooleanType@5dbb009c
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration true_false -> org.hibernate.type.TrueFalseType@41555f66
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration yes_no -> org.hibernate.type.YesNoType@332ca12
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration byte -> org.hibernate.type.ByteType@4583f884
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration byte -> org.hibernate.type.ByteType@4583f884
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Byte -> org.hibernate.type.ByteType@4583f884
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration character -> org.hibernate.type.CharacterType@1c90e839
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration char -> org.hibernate.type.CharacterType@1c90e839
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Character -> org.hibernate.type.CharacterType@1c90e839
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration short -> org.hibernate.type.ShortType@1b445ba6
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration short -> org.hibernate.type.ShortType@1b445ba6
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Short -> org.hibernate.type.ShortType@1b445ba6
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration integer -> org.hibernate.type.IntegerType@4a37ba2
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration int -> org.hibernate.type.IntegerType@4a37ba2
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Integer -> org.hibernate.type.IntegerType@4a37ba2
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration long -> org.hibernate.type.LongType@60b0c5ec
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration long -> org.hibernate.type.LongType@60b0c5ec
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Long -> org.hibernate.type.LongType@60b0c5ec
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration float -> org.hibernate.type.FloatType@59dad59d
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration float -> org.hibernate.type.FloatType@59dad59d
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Float -> org.hibernate.type.FloatType@59dad59d
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration double -> org.hibernate.type.DoubleType@2ee584ad
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration double -> org.hibernate.type.DoubleType@2ee584ad
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Double -> org.hibernate.type.DoubleType@2ee584ad
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration big_decimal -> org.hibernate.type.BigDecimalType@2036c9eb
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.math.BigDecimal -> org.hibernate.type.BigDecimalType@2036c9eb
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration big_integer -> org.hibernate.type.BigIntegerType@64383907
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.math.BigInteger -> org.hibernate.type.BigIntegerType@64383907
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration string -> org.hibernate.type.StringType@3cd64ec7
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.String -> org.hibernate.type.StringType@3cd64ec7
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration nstring -> org.hibernate.type.StringNVarcharType@34fca525
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration ncharacter -> org.hibernate.type.CharacterNCharType@280f93cb
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration url -> org.hibernate.type.UrlType@f7805b2
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.net.URL -> org.hibernate.type.UrlType@f7805b2
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration Duration -> org.hibernate.type.DurationType@1a5f41aa
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.Duration -> org.hibernate.type.DurationType@1a5f41aa
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration Instant -> org.hibernate.type.InstantType@4a936c20
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.Instant -> org.hibernate.type.InstantType@4a936c20
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration LocalDateTime -> org.hibernate.type.LocalDateTimeType@43f886fd
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.LocalDateTime -> org.hibernate.type.LocalDateTimeType@43f886fd
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration LocalDate -> org.hibernate.type.LocalDateType@2a32063e
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.LocalDate -> org.hibernate.type.LocalDateType@2a32063e
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration LocalTime -> org.hibernate.type.LocalTimeType@70c13f3b
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.LocalTime -> org.hibernate.type.LocalTimeType@70c13f3b
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@b903068
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.OffsetDateTime -> org.hibernate.type.OffsetDateTimeType@b903068
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration OffsetTime -> org.hibernate.type.OffsetTimeType@75d3e65c
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.OffsetTime -> org.hibernate.type.OffsetTimeType@75d3e65c
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@60d4e802
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.time.ZonedDateTime -> org.hibernate.type.ZonedDateTimeType@60d4e802
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration date -> org.hibernate.type.DateType@1ef94dbf
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.sql.Date -> org.hibernate.type.DateType@1ef94dbf
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration time -> org.hibernate.type.TimeType@2c9af25a
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.sql.Time -> org.hibernate.type.TimeType@2c9af25a
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration timestamp -> org.hibernate.type.TimestampType@147923fa
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.sql.Timestamp -> org.hibernate.type.TimestampType@147923fa
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.util.Date -> org.hibernate.type.TimestampType@147923fa
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration dbtimestamp -> org.hibernate.type.DbTimestampType@2b0b3e50
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration calendar -> org.hibernate.type.CalendarType@67c2e35b
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.util.Calendar -> org.hibernate.type.CalendarType@67c2e35b
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.util.GregorianCalendar -> org.hibernate.type.CalendarType@67c2e35b
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration calendar_date -> org.hibernate.type.CalendarDateType@4a402d01
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration locale -> org.hibernate.type.LocaleType@754d5792
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.util.Locale -> org.hibernate.type.LocaleType@754d5792
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration currency -> org.hibernate.type.CurrencyType@379b423e
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.util.Currency -> org.hibernate.type.CurrencyType@379b423e
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration timezone -> org.hibernate.type.TimeZoneType@29b2461f
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.util.TimeZone -> org.hibernate.type.TimeZoneType@29b2461f
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration class -> org.hibernate.type.ClassType@74028130
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Class -> org.hibernate.type.ClassType@74028130
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration uuid-binary -> org.hibernate.type.UUIDBinaryType@7206d111
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration java.util.UUID -> org.hibernate.type.UUIDBinaryType@7206d111
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration uuid-char -> org.hibernate.type.UUIDCharType@60254fe3
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration binary -> org.hibernate.type.BinaryType@3e870e82
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration byte[] -> org.hibernate.type.BinaryType@3e870e82
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration [B -> org.hibernate.type.BinaryType@3e870e82
+2017-10-26 15:44:03 DEBUG BasicTypeRegistry:145 - Adding type registration wrapper-binary -> org.hibernate.type.WrapperBinaryType@1e27d1e3
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration Byte[] -> org.hibernate.type.WrapperBinaryType@1e27d1e3
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration [Ljava.lang.Byte; -> org.hibernate.type.WrapperBinaryType@1e27d1e3
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration row_version -> org.hibernate.type.RowVersionType@7fc6c4a7
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration image -> org.hibernate.type.ImageType@248c5c01
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration characters -> org.hibernate.type.CharArrayType@48a4bd2a
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration char[] -> org.hibernate.type.CharArrayType@48a4bd2a
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration [C -> org.hibernate.type.CharArrayType@48a4bd2a
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration wrapper-characters -> org.hibernate.type.CharacterArrayType@59c7bfd9
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration [Ljava.lang.Character; -> org.hibernate.type.CharacterArrayType@59c7bfd9
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration Character[] -> org.hibernate.type.CharacterArrayType@59c7bfd9
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration text -> org.hibernate.type.TextType@55d2bfc1
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration ntext -> org.hibernate.type.NTextType@4e8338b9
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration blob -> org.hibernate.type.BlobType@49e6ce12
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration java.sql.Blob -> org.hibernate.type.BlobType@49e6ce12
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration materialized_blob -> org.hibernate.type.MaterializedBlobType@dfac96d
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration clob -> org.hibernate.type.ClobType@406d1bf1
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration java.sql.Clob -> org.hibernate.type.ClobType@406d1bf1
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration nclob -> org.hibernate.type.NClobType@7671eb84
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration java.sql.NClob -> org.hibernate.type.NClobType@7671eb84
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration materialized_clob -> org.hibernate.type.MaterializedClobType@5eb051af
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration materialized_nclob -> org.hibernate.type.MaterializedNClobType@4070cffe
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration serializable -> org.hibernate.type.SerializableType@7c2247a1
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration object -> org.hibernate.type.ObjectType@5263e7ed
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration java.lang.Object -> org.hibernate.type.ObjectType@5263e7ed
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_date -> org.hibernate.type.AdaptedImmutableType@61355af9
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_time -> org.hibernate.type.AdaptedImmutableType@2c2485bd
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_timestamp -> org.hibernate.type.AdaptedImmutableType@1ac8e0c5
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_dbtimestamp -> org.hibernate.type.AdaptedImmutableType@532b07d0
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_calendar -> org.hibernate.type.AdaptedImmutableType@18027dde
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_calendar_date -> org.hibernate.type.AdaptedImmutableType@10030a0e
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_binary -> org.hibernate.type.AdaptedImmutableType@4d901e03
+2017-10-26 15:44:04 DEBUG BasicTypeRegistry:145 - Adding type registration imm_serializable -> org.hibernate.type.AdaptedImmutableType@468e95e6
+2017-10-26 15:44:04 WARN  pooling:70 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2017-10-26 15:44:04 INFO  pooling:126 - HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/akash]
+2017-10-26 15:44:04 INFO  pooling:135 - HHH10001001: Connection properties: {user=root, password=****}
+2017-10-26 15:44:04 INFO  pooling:140 - HHH10001003: Autocommit mode: false
+2017-10-26 15:44:04 INFO  DriverManagerConnectionProviderImpl:41 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2017-10-26 15:44:04 INFO  Dialect:157 - HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2017-10-26 15:44:04 INFO  LobCreatorBuilderImpl:98 - HHH000423: Disabling contextual LOB creation as JDBC driver reported JDBC version [3] less than 4
+2017-10-26 15:44:04 TRACE TypeFactory:58 - Scoping types to session factory org.hibernate.internal.SessionFactoryImpl@22a92ddc
+2017-10-26 15:44:04 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@5d6b3122] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2017-10-26 15:44:04 INFO  QueryTranslatorFactoryInitiator:47 - HHH000397: Using ASTQueryTranslatorFactory
+2017-10-26 15:44:04 TRACE BasicBinder:65 - binding parameter [1] as [VARCHAR] - [akash.badave7@gmail.com]
+2017-10-26 15:44:04 TRACE BasicBinder:65 - binding parameter [2] as [VARCHAR] - [12345678]
+2017-10-26 15:44:04 TRACE BasicExtractor:61 - extracted value ([id1_0_] : [INTEGER]) - [1]
+2017-10-26 15:44:04 TRACE BasicExtractor:61 - extracted value ([email2_0_] : [VARCHAR]) - [akash.badave7@gmail.com]
+2017-10-26 15:44:04 TRACE BasicExtractor:61 - extracted value ([mobilenu3_0_] : [VARCHAR]) - [1234567890]
+2017-10-26 15:44:04 TRACE BasicExtractor:61 - extracted value ([name4_0_] : [VARCHAR]) - [Akash Badave]
+2017-10-26 15:44:04 TRACE BasicExtractor:61 - extracted value ([password5_0_] : [VARCHAR]) - [12345678]
+2017-10-26 15:44:04 INFO  LoginController:46 - Login Successfull

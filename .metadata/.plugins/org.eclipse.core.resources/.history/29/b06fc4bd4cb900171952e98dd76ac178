@@ -1,0 +1,49 @@
+2017-10-24 12:24:29 WARN  LoginController:58 - Login Failed
+2017-10-24 12:24:38 INFO  LoginController:50 - Login Successfull
+2017-10-24 12:25:12 WARN  LoginController:58 - Login Failed
+2017-10-24 12:25:26 INFO  LoginController:50 - Login Successfull
+2017-10-24 12:26:02 INFO  LoginController:50 - Login Successfull
+2017-10-24 12:26:03 INFO  LogoutController:34 - Successfully logout
+2017-10-24 12:26:09 WARN  LoginController:58 - Login Failed
+2017-10-24 12:28:30 WARN  LoginController:58 - Login Failed
+2017-10-24 14:21:25 WARN  LoginController:58 - Login Failed
+2017-10-24 14:21:36 WARN  LoginController:58 - Login Failed
+2017-10-24 14:25:30 WARN  LoginController:58 - Login Failed
+2017-10-24 14:25:43 INFO  LoginController:50 - Login Successfull
+2017-10-24 14:25:45 INFO  LogoutController:34 - Successfully logout2017-10-24 16:54:24 WARN  SignUpController:68 - User already exits.
+2017-10-24 16:54:56 INFO  SignUpController:62 - Signup successfull
+2017-10-24 16:55:33 INFO  LoginController:50 - Login Successfull
+2017-10-24 16:55:35 INFO  LogoutController:34 - Successfully logout
+2017-10-24 16:55:55 INFO  LoginController:50 - Login Successfull
+2017-10-24 16:55:57 INFO  LogoutController:34 - Successfully logout
+2017-10-24 16:57:31 INFO  LoginController:50 - Login Successfull
+2017-10-24 16:57:32 INFO  LogoutController:34 - Successfully logout
+2017-10-24 17:05:04 INFO  LoginController:50 - Login Successfull
+2017-10-24 17:05:08 INFO  LogoutController:34 - Successfully logout
+2017-10-24 17:39:30 WARN  LoginController:58 - Login Failed
+2017-10-24 17:46:07 INFO  LoginController:50 - Login Successfull
+2017-10-24 17:47:29 INFO  LogoutController:34 - Successfully logout
+2017-10-24 17:48:10 WARN  LoginController:58 - Login Failed
+2017-10-24 18:25:33 WARN  LoginController:58 - Login Failed
+2017-10-24 18:47:24 WARN  LoginController:58 - Login Failed
+2017-10-24 18:48:57 WARN  LoginController:58 - Login Failed
+2017-10-24 18:49:55 WARN  LoginController:58 - Login Failed
+2017-10-24 18:52:35 WARN  LoginController:58 - Login Failed
+2017-10-24 19:02:44 INFO  LoginController:50 - Login Successfull
+2017-10-24 19:02:47 INFO  LogoutController:34 - Successfully logout
+2017-10-24 19:08:30 INFO  LoginController:50 - Login Successfull
+2017-10-24 19:08:31 INFO  LogoutController:34 - Successfully logout
+2017-10-24 19:28:59 WARN  LoginController:58 - Login Failed
+2017-10-24 19:29:05 WARN  LoginController:58 - Login Failed
+2017-10-24 19:29:07 WARN  LoginController:58 - Login Failed
+2017-10-25 09:15:27 INFO  LoginController:50 - Login Successfull
+2017-10-25 09:15:28 INFO  LogoutController:34 - Successfully logout
+2017-10-25 09:18:45 WARN  SignUpController:68 - User already exits.
+2017-10-25 09:26:56 WARN  SignUpController:68 - User already exits.
+2017-10-25 09:45:01 INFO  LoginController:50 - Login Successfull
+2017-10-25 09:45:02 INFO  LogoutController:34 - Successfully logout
+2017-10-25 09:45:47 INFO  SignUpController:62 - Signup successfull
+2017-10-25 09:46:02 INFO  LoginController:50 - Login Successfull
+2017-10-25 09:46:04 INFO  LogoutController:34 - Successfully logout
+2017-10-25 09:46:48 WARN  SignUpController:68 - User already exits.
+2017-10-25 09:48:46 WARN  SignUpController:68 - User already exits.

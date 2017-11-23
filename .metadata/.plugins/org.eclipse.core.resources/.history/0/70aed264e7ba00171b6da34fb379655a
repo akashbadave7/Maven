@@ -1,0 +1,54 @@
+package com.bridgeit.OneToMany;
+
+
+
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+import org.hibernate.query.Query;
+
+public class Main {
+
+	public static void main(String[] args) 
+	{
+			Scanner scanner = new Scanner(System.in);
+			Configuration config = new Configuration().configure("hibernate.cfg.xml");
+			SessionFactory factory = config.buildSessionFactory();
+			Session session = factory.openSession();
+			Transaction transaction = session.beginTransaction(); 
+			Set<Phone> phoneNumbers = new HashSet<Phone>();
+			String name,house,mobile;
+			System.out.println("Enter name");
+			name = scanner.next();
+			System.out.println("Enter house number");
+			house =scanner.next();
+			System.out.println("Enter mobile number");
+			mobile = scanner.next();
+			phoneNumbers.add(new Phone("house","5478665464"));
+			phoneNumbers.add(new Phone("mobile","456456454"));
+			
+			Student student = new Student("Sujit", phoneNumbers);
+			
+			session.save(student);
+			
+			transaction.commit();
+			
+			System.out.println("success");
+		
+			
+		/* Object object=session.load(Student.class,new Long(1));
+	     Student student=(Student)object;
+	 
+	     session.delete(student);
+	     System.out.println("Object Deleted successfully.....!!");
+	     transaction.commit();
+		
+		System.out.println("success");*/
+	}
+
+}

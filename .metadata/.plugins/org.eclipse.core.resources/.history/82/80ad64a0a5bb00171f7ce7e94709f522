@@ -1,0 +1,24 @@
+package com.bridgeit.OneToMany;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.Transaction;
+import org.hibernate.cfg.Configuration;
+
+public class SingleLevelCache {
+
+	public static void main(String[] args) 
+	{
+		Configuration config = new Configuration().configure("hibernate.cfg.xml");
+		SessionFactory factory = config.buildSessionFactory();
+		Session session = factory.openSession();
+		Transaction transaction = session.beginTransaction();
+		
+		//fetch the student entity from database first time
+		Student student = session.load(Student.class, 2);
+		System.out.println(student.getStudentName());
+		
+		//fetch the student entity  again
+	}
+
+}

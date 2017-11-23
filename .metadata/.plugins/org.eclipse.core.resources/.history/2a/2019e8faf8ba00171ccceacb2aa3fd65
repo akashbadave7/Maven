@@ -1,0 +1,57 @@
+package com.bridgeit.ManyToOne;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.GenericGenerator;
+
+@Entity
+@Table(name="Employee")
+public class Employee 
+{
+	private int employeeId;
+	private String empployeeName;
+	private String employeeAddress;
+	
+	public Employee() {
+	}
+
+	public Employee(String empployeeName, Address employeeAddress) {
+		this.empployeeName = empployeeName;
+		this.employeeAddress = employeeAddress;
+	}
+
+	@Id
+	@GeneratedValue(generator="sequence",strategy=GenerationType.AUTO)
+	@GenericGenerator(name="sequence", strategy="native")
+	@Column(name = "EMPLOYEE_ID")
+	public long getStudentId() {
+		return this.employeeId;
+	}
+
+	public void setStudentId(long employeeId) {
+		this.employeeId = employeeId;
+	}
+
+	@Column(name = "STUDENT_NAME", nullable = false, length = 100)
+	public String getStudentName() {
+		return this.empployeeName;
+	}
+
+	public void setStudentName(String studentName) {
+		this.empployeeName = studentName;
+	}
+
+	@ManyToOne(cascade = CascadeType.ALL)
+	public Address getStudentAddress() {
+		return this.studentAddress;
+	}
+
+	public void setStudentAddress(Address studentAddress) {
+		this.studentAddress = studentAddress;
+	}
+}

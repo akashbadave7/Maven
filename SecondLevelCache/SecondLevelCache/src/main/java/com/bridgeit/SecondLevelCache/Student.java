@@ -1,0 +1,64 @@
+package com.bridgeit.SecondLevelCache;
+
+import java.util.HashSet;
+import java.util.Set;
+
+import javax.persistence.CascadeType;
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinColumn;
+import javax.persistence.JoinTable;
+import javax.persistence.OneToMany;
+import javax.persistence.Table;
+
+import org.hibernate.annotations.GenericGenerator;
+
+@Entity
+@Table(name="STUDENT")
+public class Student 
+{
+	private long studentId;
+	private String studentName;
+	private Set<Phone> studentPhoneNumber = new HashSet<Phone>(0);
+	
+	public Student(){
+	}
+	
+	public Student(String studentName,Set<Phone> studentPhoneNumber)
+	{
+		this.studentName=studentName;
+		this.studentPhoneNumber=studentPhoneNumber;
+	}
+	@Id
+	@GeneratedValue(generator = "sequence", strategy=GenerationType.AUTO)
+	@GenericGenerator(name="sequence", strategy="native")
+	@Column(name="STUDENT_ID")
+	public long getStudentId() {
+		return studentId;
+	}
+
+	public void setStudentId(long studentId) {
+		this.studentId = studentId;
+	}
+	@Column(name="STUDENT_NAME",nullable=false,length=30)
+	public String getStudentName() {
+		return studentName;
+	}
+
+	public void setStudentName(String studentName) {
+		this.studentName = studentName;
+	}
+
+	@OneToMany(cascade=CascadeType.ALL)
+	@JoinColumn(name="STUDENT_ID")
+	public Set<Phone> getStudentPhoneNumber() {
+		return studentPhoneNumber;
+	}
+	public void setStudentPhoneNumber(Set<Phone> studentPhoneNumber) {
+		this.studentPhoneNumber = studentPhoneNumber;
+	}
+	
+}
